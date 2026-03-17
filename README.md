@@ -5,6 +5,10 @@ It uses a self-reflection loop to evaluate the quality of its output and automat
 
 ---
 
+## Live Demo
+[Try AutoScholar on HuggingFace Spaces](https://huggingface.co/spaces/luminoria/AutoScholar)
+
+---
 
 ## How It Works
 
